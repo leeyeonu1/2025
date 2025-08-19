@@ -60,4 +60,5 @@ if st.button('확인하기'):
             st.warning(f'{food_input}에 대한 정보가 데이터베이스에 없습니다.')
             st.info('더 많은 식재료 정보를 추가하고 있습니다. 나중에 다시 확인해주세요.')
     else:
-        st.warning('식재료를 입력해주세요
+        st.warning('식재료를 입력해주세요')
+        
